@@ -30,6 +30,9 @@
   <modules>
     <module>User-Authentication</module>
     <module>Restaurant-Service</module>
+    <module>Favourite-Service</module>
+    <module>API-Gateway</module>
+    <module>Eureka-Server</module>
   </modules>
 
   <dependencies>
